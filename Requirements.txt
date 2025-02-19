@@ -1,0 +1,6 @@
+'''INSTALL THESE LIBRARIES'''
+
+numpy
+pandas
+nltk
+scikit-learn
